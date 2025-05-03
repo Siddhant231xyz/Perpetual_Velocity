@@ -137,7 +137,6 @@ perpetual-velocity/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Project documentation
-├── LICENSE                # MIT License
 ├── screenshots/           # Example screenshots
 │   └── dashboard.png      # Dashboard preview image
 ```
