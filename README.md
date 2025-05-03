@@ -36,7 +36,7 @@ SOFTWARE.
 
 Perpetual Velocity is a dynamic business metrics dashboard that helps companies visualize and track their key performance indicators across multiple dimensions. Built with Streamlit and Plotly, it provides intuitive visualizations including bubble charts, line graphs, radar plots, and more to help business leaders understand their company's performance at a glance.
 
-![Perpetual Velocity Dashboard](https://github.com/username/perpetual-velocity/raw/main/screenshots/dashboard.png)
+![Perpetual Velocity Dashboard](https://github.com/Siddhant231xyz/Perpetual_Velocity/raw/main/screenshots/dashboard.png)
 
 ## Features ✨
 
