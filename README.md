@@ -75,8 +75,8 @@ Perpetual Velocity is a dynamic business metrics dashboard that helps companies 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/perpetual-velocity.git
-cd perpetual-velocity
+git clone https://github.com/Siddhant231xyz/Perpetual_Velocity.git
+cd perpetual_velocity
 ```
 
 2. Set up virtual environment:
