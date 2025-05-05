@@ -20,7 +20,6 @@ beeware==0.3.0
 binaryornot==0.4.4
 black==25.1.0
 blinker==1.8.2
-briefcase==0.3.19
 bs4==0.0.2
 build==1.2.2
 cachetools==5.5.0
@@ -220,9 +219,6 @@ termcolor==1.1.0
 text-unidecode==1.3
 threadpoolctl==3.5.0
 tiktoken==0.7.0
-toga==0.4.7
-toga-core==0.4.7
-toga-winforms==0.4.7
 tokenizers==0.20.0
 toml==0.10.2
 tomli==2.0.1
